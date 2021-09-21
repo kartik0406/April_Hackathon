@@ -1,4 +1,3 @@
-# ALUTE - Learn and Contribute
 - Overall 3rd Place in an International Hack - Hack from the past by MLH
 - Won Best Educational Hack at Technica'21
 
